@@ -8,7 +8,7 @@ Vector
 Requirements
 ------------
 
-Поддерживаются только RPM-based дистрибутивы
+Поддерживаются RPM-based и DEB-based дистрибутивы
 
 Для работы необходимы ```Clickhouse``` и ```nginx```
 
